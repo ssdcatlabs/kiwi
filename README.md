@@ -9,4 +9,4 @@ For beta releases or older releases click the 'releases' link to find a beta rel
 
 --------
 
-Known Issues: Falcon Engine's flame is on while off
+Fixed Issues: Falcon Engine's flame is on while off
